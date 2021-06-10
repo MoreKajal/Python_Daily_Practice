@@ -6,3 +6,7 @@ Work on Python basics Daily.
 4. Simple Interest Calculation
 5. Compound Interest Calculation.
 6. 
+
+
+
+**Numpy Operations:**
