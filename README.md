@@ -6,7 +6,7 @@ Work on Python basics Daily.
 4. Simple Interest Calculation
 5. Compound Interest Calculation.
 6. Area of Circle
-7. 
+7. Prime numbers in given range
 
 
 
