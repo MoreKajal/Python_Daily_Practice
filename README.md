@@ -5,7 +5,8 @@ Work on Python basics Daily.
 3. Find Factorial of given number.
 4. Simple Interest Calculation
 5. Compound Interest Calculation.
-6. 
+6. Area of Circle
+7. 
 
 
 
