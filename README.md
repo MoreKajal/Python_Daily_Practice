@@ -7,6 +7,7 @@ Work on Python basics Daily.
 5. Compound Interest Calculation.
 6. Area of Circle
 7. Prime numbers in given range
+8. Swap list elements
 
 
 
