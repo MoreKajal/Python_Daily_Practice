@@ -9,6 +9,7 @@ Work on Python basics Daily.
 7. Prime numbers in given range
 8. Swap list elements
 9. Element exist in a list
+10.Regex expression
 
 
 
