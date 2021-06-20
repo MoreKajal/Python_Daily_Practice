@@ -11,6 +11,7 @@ Work on Python basics Daily.
 9. Element exist in a list
 10. Regex expression
 11. Code from Statements
+12. Passing Multiple Arguments
 
 
 
