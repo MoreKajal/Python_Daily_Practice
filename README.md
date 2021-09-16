@@ -12,7 +12,7 @@ Work on Python basics Daily.
 10. Regex expression
 11. Code from Statements
 12. Passing Multiple Arguments
-
-
+13. Python Fundamentals practice
+14. 
 
 **Numpy Operations:**
