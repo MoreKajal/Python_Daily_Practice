@@ -14,6 +14,5 @@ Work on Python basics Daily.
 12. Passing Multiple Arguments
 13. Python Fundamentals practice
 14. Cricket Match Analysis
-15. 
 
-**Numpy Operations:**
+** Python Notebooks **
